@@ -14,7 +14,7 @@ Le flag est `FCSC{xxxx}` où `xxxx` est remplacé par la valeur de `m` en écrit
 
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [SMIC (2)](https://hackropole.fr/fr/challenges/crypto/fcsc2020-crypto-smic-2/)
 
